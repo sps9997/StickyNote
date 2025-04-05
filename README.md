@@ -1,2 +1,2 @@
 # StickyNote
-It is my first stickynote project.
+It is my first java stickynote project.
